@@ -1,5 +1,5 @@
 # Tampilan Beranda Aplikasiku
-![beranda](https://user-images.githubusercontent.com/45724156/149281521-8b877cfd-4dbc-4238-ab10-9f2c1568e745.jpeg)
+![image](https://user-images.githubusercontent.com/45724156/152681370-e7679025-758a-4b54-8dbb-06a4de4b6fe2.png)
 # Tambilan Data Barang
 ![image](https://user-images.githubusercontent.com/45724156/152681206-0cd785ac-fe13-4c5a-a77d-88bfcd78eb44.png)
 # Tampilan Data Pelanggan
